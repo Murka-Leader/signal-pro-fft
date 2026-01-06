@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&display=swap');
+
+.font-mono { 
+    font-family: 'JetBrains Mono', monospace; 
+}
+
+canvas { 
+    image-rendering: antialiased; 
+}
+
+.recording-active { 
+    color: #10b981; 
+    text-shadow: 0 0 10px rgba(16, 185, 129, 0.4); 
+}
+
+.view-tab.active { 
+    border-bottom: 2px solid #60a5fa; 
+    color: #60a5fa; 
+}
